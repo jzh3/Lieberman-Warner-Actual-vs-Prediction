@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# EEX data: not redistributed (see EEX terms of use)
+data/raw/*eex*
+data/raw/*EEX*
