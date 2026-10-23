@@ -1,0 +1,58 @@
+,Unnamed: 0,program,model,date,year,price,currency,unit,source,is_forecast,forecast_study,scenario
+0,0,Lieberman-Warner,EPPA,,2015,59.15,2007$,mt,BD,True,MIT,"No Offsets, No CCS Subsidy"
+1,1,Lieberman-Warner,EPPA,,2015,50.72,2007$,mt,BD,True,MIT,15% Offsets
+2,2,Lieberman-Warner,EPPA,,2015,57.91,2007$,mt,BD,True,MIT,CSS Subsidy
+3,3,Lieberman-Warner,EPPA,,2015,50.44,2007$,mt,BD,True,MIT,"15% Offsets, CSS Subsidy"
+4,4,Lieberman-Warner,NEMS,,2014,36.69,2007$,mt,BD,True,ACCF/NAM,Low Cost
+5,5,Lieberman-Warner,NEMS,,2014,38.36,2007$,mt,BD,True,ACCF/NAM,High Cost
+6,6,Lieberman-Warner,MRN-NEEM,,2015,50.0,2007$,mt,BD,True,CRA,Banking
+7,7,Lieberman-Warner,MRN-NEEM,,2015,40.0,2007$,mt,BD,True,CRA,No Banking
+8,8,Lieberman-Warner,GI,,2015,50.37,2007$,mt,BD,True,CDA,Generous
+9,9,Lieberman-Warner,GI,,2015,50.37,2007$,mt,BD,True,CDA,Reasonable
+10,10,Lieberman-Warner,ADAGE,,2015,30.55,2007$,mt,BD,True,EPA,S.2191
+11,11,Lieberman-Warner,IGEM,,2015,42.14,2007$,mt,BD,True,EPA,S.2191
+12,12,Lieberman-Warner,ADAGE,,2015,,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+13,13,Lieberman-Warner,IGEM,,2015,81.13,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+14,14,Lieberman-Warner,ADAGE,,2015,57.95,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+15,15,Lieberman-Warner,IGEM,,2015,,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+16,16,Lieberman-Warner,NEMS,,2020,30.84,2007$,mt,BD,True,EIA,S.2191 Core
+17,17,Lieberman-Warner,NEMS,,2020,78.12,2007$,mt,BD,True,EIA,S.2191 Limited Alternative/No International Offsets
+18,18,Lieberman-Warner,NEMS,,2015,17.43,2007$,mt,BD,True,CATF,S.2191
+19,19,Lieberman-Warner,EPPA,,2030,106.53,2007$,mt,BD,True,MIT,"No Offsets, No CCS Subsidy"
+20,20,Lieberman-Warner,EPPA,,2030,91.35,2007$,mt,BD,True,MIT,15% Offsets
+21,21,Lieberman-Warner,EPPA,,2030,104.3,2007$,mt,BD,True,MIT,CSS Subsidy
+22,22,Lieberman-Warner,EPPA,,2030,90.83,2007$,mt,BD,True,MIT,"15% Offsets, CSS Subsidy"
+23,23,Lieberman-Warner,NEMS,,2030,227.52,2007$,mt,BD,True,ACCF/NAM,Low Cost
+24,24,Lieberman-Warner,NEMS,,2030,271.27,2007$,mt,BD,True,ACCF/NAM,High Cost
+25,25,Lieberman-Warner,MRN-NEEM,,2030,90.0,2007$,mt,BD,True,CRA,Banking
+26,26,Lieberman-Warner,MRN-NEEM,,2030,80.0,2007$,mt,BD,True,CRA,No Banking
+27,27,Lieberman-Warner,GI,,2030,69.9,2007$,mt,BD,True,CDA,Generous
+28,28,Lieberman-Warner,GI,,2030,90.46,2007$,mt,BD,True,CDA,Reasonable
+29,29,Lieberman-Warner,ADAGE,,2030,64.27,2007$,mt,BD,True,EPA,S.2191
+30,30,Lieberman-Warner,IGEM,,2030,87.45,2007$,mt,BD,True,EPA,S.2191
+31,31,Lieberman-Warner,ADAGE,,2030,,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+32,32,Lieberman-Warner,IGEM,,2030,168.58,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+33,33,Lieberman-Warner,ADAGE,,2030,118.01,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+34,34,Lieberman-Warner,IGEM,,2030,,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+35,35,Lieberman-Warner,NEMS,,2030,62.71,2007$,mt,BD,True,EIA,S.2191 Core
+36,36,Lieberman-Warner,NEMS,,2030,160.36,2007$,mt,BD,True,EIA,S.2191 Limited Alternative/No International Offsets
+37,37,Lieberman-Warner,NEMS,,2030,49.03,2007$,mt,BD,True,CATF,S.2191
+38,38,Lieberman-Warner,EPPA,,2050,233.42,2007$,mt,BD,True,MIT,"No Offsets, No CCS Subsidy"
+39,39,Lieberman-Warner,EPPA,,2050,200.17,2007$,mt,BD,True,MIT,15% Offsets
+40,40,Lieberman-Warner,EPPA,,2050,228.52,2007$,mt,BD,True,MIT,CSS Subsidy
+41,41,Lieberman-Warner,EPPA,,2050,199.03,2007$,mt,BD,True,MIT,"15% Offsets, CSS Subsidy"
+42,42,Lieberman-Warner,NEMS,,2050,,2007$,mt,BD,True,ACCF/NAM,Low Cost
+43,43,Lieberman-Warner,NEMS,,2050,,2007$,mt,BD,True,ACCF/NAM,High Cost
+44,44,Lieberman-Warner,MRN-NEEM,,2050,190.0,2007$,mt,BD,True,CRA,Banking
+45,45,Lieberman-Warner,MRN-NEEM,,2050,350.0,2007$,mt,BD,True,CRA,No Banking
+46,46,Lieberman-Warner,GI,,2050,,2007$,mt,BD,True,CDA,Generous
+47,47,Lieberman-Warner,GI,,2050,,2007$,mt,BD,True,CDA,Reasonable
+48,48,Lieberman-Warner,ADAGE,,2050,167.53,2007$,mt,BD,True,EPA,S.2191
+49,49,Lieberman-Warner,IGEM,,2050,231.8,2007$,mt,BD,True,EPA,S.2191
+50,50,Lieberman-Warner,ADAGE,,2050,,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+51,51,Lieberman-Warner,IGEM,,2050,447.79,2007$,mt,BD,True,EPA,S.2191 - No Offsets
+52,52,Lieberman-Warner,ADAGE,,2050,305.55,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+53,53,Lieberman-Warner,IGEM,,2050,,2007$,mt,BD,True,EPA,"S.2191 - Constrained Nuclear, Biomass, and CCS"
+54,54,Lieberman-Warner,NEMS,,2050,,2007$,mt,BD,True,EIA,S.2191 Core
+55,55,Lieberman-Warner,NEMS,,2050,,2007$,mt,BD,True,EIA,S.2191 Limited Alternative/No International Offsets
+56,56,Lieberman-Warner,NEMS,,2050,,2007$,mt,BD,True,CATF,S.2191

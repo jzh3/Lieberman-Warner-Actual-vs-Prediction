@@ -1,0 +1,10 @@
+region,year,Coal,Natural Gas,Nuclear,Other
+RGGI (9 states),2001,23,24,28,25
+RGGI (9 states),2008,22,31,29,19
+RGGI (9 states),2020,1,46,30,23
+Pennsylvania,2001,57,2,38,4
+Pennsylvania,2008,53,8,35,3
+Pennsylvania,2020,10,52,33,4
+West Virginia,2001,98,0,0,2
+West Virginia,2008,98,0,0,2
+West Virginia,2020,89,5,0,6
