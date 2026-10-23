@@ -29,9 +29,22 @@ The notebooks were written for Google Colab with the project folder in Google Dr
 Requires: pandas, numpy, matplotlib, statsmodels, xlrd.
 
 ### Raw data
-Raw files are included in data/raw/, except EEX auction data, which must be downloaded from [EEX](https://www.eex.com/en/market-data/market-data-hub/environmentals/eex-eua-primary-auction-spot-download) due to its terms of use.
+Raw files are included in `data/raw/`, except EEX auction data, which must be downloaded from EEX due to its terms of use.
+
+| File | Source |
+|---|---|
+| `CPIAUCSL.csv`, `DEXUSEU.csv`, `MHHNGSP.csv` | [FRED](https://fred.stlouisfed.org/), Federal Reserve Bank of St. Louis (CPI from the U.S. Bureau of Labor Statistics; exchange rate from the Federal Reserve Board; Henry Hub spot price from the U.S. Energy Information Administration) |
+| `Table.csv`, `Table_PCE.csv` | [U.S. Bureau of Economic Analysis](https://apps.bea.gov/itable/), SAINC1 (population) and SAPCE1 (personal consumption expenditures) |
+| `Average_retail_price_of_electricity_residential_annual.csv` | [U.S. Energy Information Administration, Electricity Data Browser](https://www.eia.gov/electricity/data/browser/) |
+| `annual_generation_state.csv`, `emission_annual.csv` | [U.S. Energy Information Administration, State Electricity Data](https://www.eia.gov/electricity/data/state/) |
+| `results_summary.pdf` | [California Air Resources Board, auction information](https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program/auction-information) |
+| RGGI auction prices (loaded directly in notebook 01) | [Regional Greenhouse Gas Initiative, prices and volumes](https://www.rggi.org/auctions/auction-results/prices-volumes) |
+| EU auction prices (not included) | [European Energy Exchange (EEX), primary auction data](https://www.eex.com/en/market-data/market-data-hub/environmentals/eex-eua-primary-auction-spot-download) |
 
 Forecast prices come from Table 5 of Buckley and Mityakov (2009), "How Much Would It Cost to Avoid Climate Change?" *World Economics* 10(1): 107–49 (`data/clean/BuckleyPhD.csv`).
 
 ## Acknowledgments
 Thanks to Dr. Bryan Buckley for his guidance on this project.
+
+## License
+Code in `notebooks/` is released under the [MIT License](LICENSE). The paper and figures in `paper/` and `output/` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source data remain subject to their providers' terms.
